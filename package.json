@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Binh05/results-summary-component.git",
+  "homepage": "https://binh05.github.io/results-summary-component/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
